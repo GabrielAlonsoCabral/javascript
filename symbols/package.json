@@ -1,0 +1,11 @@
+{
+  "name": "symbols",
+  "version": "1.0.0",
+  "description": "Using Symbol in Javascript",
+  "main": "index.js",
+  "author": "Gabriel Alonso Cabral",
+  "license": "MIT",
+  "scripts": {
+    "test":"node heroes.test.js"
+  }
+}
